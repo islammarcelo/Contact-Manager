@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1556168834 source:c:\users\compu adam\desktop\section 2 t 1\src\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<strstream>
+
+1556168834 c:\users\compu adam\desktop\section 2 t 1\include\linkedlist.h
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1556674352 source:d:\fci\second year\second term\data structure\ass4\section 2 t 1\main.cpp
+	<iostream>
+	<fstream>
+	"linkedlist.h"
+
+1556168834 d:\fci\second year\second term\data structure\ass4\section 2 t 1\include\linkedlist.h
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1556168834 source:d:\fci\second year\second term\data structure\ass4\section 2 t 1\src\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<strstream>
+
+1556168834 source:d:\fci\second year\second term\data structure\ass4\section 2\src\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<strstream>
+
+1556168834 d:\fci\second year\second term\data structure\ass4\section 2\include\linkedlist.h
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
